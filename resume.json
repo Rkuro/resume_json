@@ -1,0 +1,214 @@
+{
+    "basics": {
+        "name": "Robin Kurosawa",
+        "label": "Engineer",
+        "image": "https://avatars.githubusercontent.com/u/13005003?v=4",
+        "email": "robinkurosawa@gmail.com",
+        "phone": "617-997-3829",
+        "url": "https://johndoe.com",
+        "location": {},
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "rkuro",
+                "url": "https://github.com/Rkuro"
+            }
+        ]
+    },
+    "professional_experience": [
+        {
+            "company": "Palantir Technologies",
+            "position": "Forward Deployed Engineer",
+            "start_date": "April 2019",
+            "end_date": "Present",
+            "responsibilities": [
+                "Solely managed a multi-million dollar technology stack and created initiatives for setting automated database backup schedules and verifications, upgrade processes through air-gapped networks, and on-premise hardware stability checks",
+                "Reacted with a comprehensive disaster relief response during a catastrophic hardware failure where one of the servers physically caught on fire and managed a task force response team to run a full service and data backup recovery process with 0 data loss within 2 days",
+                "Created a data pipeline for ingesting and transforming over 7TB of subpoenaed data and provided attorneys with analysis during the prosecution of a multi-billion dollar settlement trial using the Apache Hadoop Distributed File System (HDFS) and the Apache Spark Distributed Computation Engine"
+            ]
+        },
+        {
+            "company": "Department of Justice - Southern District of New York (SDNY)",
+            "position": "Forward Deployed Engineer",
+            "start_date": "",
+            "end_date": "",
+            "responsibilities": [
+                "Maintained and extended a decade-old software service for attorneys at SDNY to ingest and analyze several types of digital forensic data",
+                "Planned, scoped, implemented, and demonstrated a new platform to replace the older deprecated platform for forensic analysis leading to a multi-year, multi-million dollar contract extension"
+            ]
+        },
+        {
+            "company": "Team Rubicon Disaster Relief",
+            "position": "",
+            "start_date": "",
+            "end_date": "",
+            "responsibilities": [
+                "Planned the transition and development of a new product for managing the collection and triage of volunteers helping during disaster relief efforts"
+            ]
+        },
+        {
+            "company": "National Center for Missing and Exploited Children (NCMEC)",
+            "position": "",
+            "start_date": "",
+            "end_date": "",
+            "responsibilities": [
+                "Planned the rollout of a new technology stack with on-premise hardware and a full database migration"
+            ]
+        },
+        {
+            "company": "Various Projects",
+            "position": "",
+            "start_date": "",
+            "end_date": "",
+            "responsibilities": [
+                "Implemented several hundred bug fixes and stability updates for core products across several projects such as the Federal Bureau of Investigation, the Los Angeles Regional Police Department, and the Center for Advanced Defense (C4ADS)"
+            ]
+        },
+        {
+            "company": "Promantus.inc",
+            "position": "Full Stack Developer",
+            "start_date": "July 2017",
+            "end_date": "March 2019",
+            "responsibilities": [
+                "Co-led front-end development on the Agnes college app with a team of 3 developers and 2 designers using the AngularJS Hybrid Native Framework with Protractor (unit testing) and Typescript",
+                "Led back-end development on a distributed system of web-scrapers to mine data using NLP processing and deep neural networks for document classification and smart data extraction",
+                "Supported the backend team to maintain and design cloud infrastructure and microservices for security, flexibility, and performance",
+                "Fully developed the front-end implementation for the Agnes Email Dashboard, a tool to allow students to send events over email and gather analytics using ReactJS with Redux connected through a standard REST API filtered through AWS Lambda microservices",
+                "Developed business strategies based on LEAN approaches and continuous development practices, to iterate design based on user behavior"
+            ]
+        },
+        {
+            "company": "Chronically Capable",
+            "position": "",
+            "start_date": "",
+            "end_date": "",
+            "responsibilities": [
+                "Connected ZipRecruiter’s partner web API to Chronically Capable’s website built on Webflow to provide job postings with flexible hours to those suffering from chronic illnesses"
+            ]
+        },
+        {
+            "company": "Tables",
+            "position": "",
+            "start_date": "",
+            "end_date": "",
+            "responsibilities": [
+                "Fully developed two front-end clients for the Tables recruitment platform allowing for mission-driven recruitment and application management",
+                "Client 1 provides a dashboard for recruiters to manage their own site with custom hosting options and brand alignment tools",
+                "Client 2 displays the tables (projects) and seats (positions) available at the organization for people to apply and get hired by recruiters",
+                "Both web clients were built using ReactJS connected via GraphQL to NodeJS backend microservices and a NoSQL MongoDB database"
+            ]
+        },
+        {
+            "company": "Boston University Global Programs",
+            "position": "IT Support/Assistant Programmer",
+            "start_date": "July 2015",
+            "end_date": "July 2017",
+            "responsibilities": [
+                "Developed plan to synchronize and automate server updates, saving +4 hours per update and reducing the risk of manual update errors",
+                "Resolved +400 faculty technology issues and incidents through the BU service-now web client"
+            ]
+        },
+        {
+            "company": "Boston University Medical Campus",
+            "position": "Web Developer",
+            "start_date": "June 2015",
+            "end_date": "January 2016",
+            "responsibilities": [
+                "Redesigned the Pathology Department’s website front page leading to 15% increase in traffic",
+                "Coordinated and assisted pathology website committee meetings with BU doctors and researchers",
+                "Collected feedback and streamlined HTML/CSS structure accordingly"
+            ]
+        }
+    ],
+    "organizations_projects": [
+        {
+            "name": "OpenCreditX",
+            "role": "Founder",
+            "start_date": "March 2019",
+            "end_date": "Present",
+            "description": "Starting a non-profit designed to help make consumer credit calculation and data storage more transparent for consumers and lenders"
+        },
+        {
+            "name": "Alice Deal Middle School",
+            "role": "Coding Club",
+            "start_date": "January 2018",
+            "end_date": "Present",
+            "description": "Started a weekly coding club at a local middle school teaching students how to do various tasks in python and other languages"
+        },
+        {
+            "name": "Distributed Consensus",
+            "role": "Go",
+            "start_date": "February 2017",
+            "end_date": "",
+            "description": "Implemented a fault-tolerant key-value distributed file system in Go using the Raft consensus model and construction framework. Also developed an infrastructure to support the Google map-reduce paradigm in Go capable of withstanding substantial worker and network failure"
+        },
+        {
+            "name": "Neural Networks",
+            "role": "Python",
+            "start_date": "June 2016",
+            "end_date": "",
+            "description": "Created a Neural Network Classifier in python via a multi-layer perceptron architecture. Used dimensionality reduction and momentum update optimization to achieve over 90% test accuracy"
+        },
+        {
+            "name": "Simulated Bus-Passenger System",
+            "role": "Java",
+            "start_date": "November 2016",
+            "end_date": "",
+            "description": "Built a multithreaded simulated transportation system using Java threads"
+        }
+    ],
+    "education": [
+        {
+            "institution": "Boston University",
+            "degree": "Bachelor of Science in Computer Science",
+            "start_date": "",
+            "end_date": "Class of 2017"
+        },
+        {
+            "institution": "University of Copenhagen",
+            "degree": "",
+            "start_date": "January 2016",
+            "end_date": "June 2016",
+            "relevant_coursework": [
+                "Data Analysis Methods (Masters level)",
+                "Web Science (Masters Level)"
+            ]
+        }
+    ],
+    "skills": {
+        "hard_skills": [
+            "Discrete Mathematics (number theory/statistics)",
+            "Machine Learning/Artificial Intelligence",
+            "Distributed System Design",
+            "UI design methodologies",
+            "Lean UX development principles"
+        ],
+        "soft_skills": [
+            "Disciplined approach to problem solving",
+            "Able to work in cross-functional teams",
+            "Eager to learn new skills/technology",
+            "Collaborative team player",
+            "Data-driven methodology for decision making"
+        ],
+        "languages_environments": [
+            "NodeJs",
+            "Go",
+            "Java",
+            "Python (2/3)",
+            "x86/RISCV Assembly",
+            "HTML",
+            "CSS",
+            "Javascript (React/Angular)",
+            "Typescript"
+        ],
+        "tools_technologies": [
+            "Linux",
+            "AWS (Lambda, EC2, S3, Cloudfront)",
+            "GCP",
+            "Postgres",
+            "ElasticSearch",
+            "MongoDB",
+            "Redis"
+        ]
+    }
+}
